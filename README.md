@@ -179,7 +179,7 @@ By Our Method:
 ![image.png](http://upload-images.jianshu.io/upload_images/7058214-8e451cc04663f797.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-  Thanks for reading, if you have any further problems feel free to contact me, this work is done when I work as a research assistant in Hong Kong University Computer Vision & Graphics Lab.
+  Thanks for reading, if you have any further problems, please feel free to contact me, this work is done when I worked as a research assistant in Hong Kong University Computer Vision & Graphics Lab.
 
 
 _**Copyright by - Siyu Zhu**_
