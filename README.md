@@ -182,4 +182,4 @@ By Our Method:
   Thanks for reading, if you have any further problems, please feel free to contact me, this work is done when I worked as a research assistant in Hong Kong University Computer Vision & Graphics Lab.
 
 
-_**Copyright by - Siyu Zhu**_
+_**Copyright by - HKU , Siyu Zhu**_
