@@ -1,5 +1,10 @@
 # KinectUtil
-This project is used to solve the mismatch problem of rgb and depth camera of Kinect camera in order to get high quality point cloud. For calibration stage, we use 2 method to calibrate the camera, using DLT and Zhangzhengyou‘s checkerboard to calculate the camera parameters, and using these parameters to project and retroject from the image captured by RGB and depth camera. 
+
+This project solves the problem of mismatching between rgb camera and depth camera of Kinect camera. And we can get higher quality point cloud model than Kinect itself. We solve the problem by firstly using both DLT and Zhangzhengyou‘s checkerboard to calibrate the camera, and then applying the calibrated parameters to project and reproject from the image captured by RGB and depth camera.
+
+This project serves as a tutorial for calibrating Kinect camera and tool for project and reproject between different Coordinate System。
+
+
 # Some Basic Terminology 
 ## Point cloud:
    Point cloud is a kind of 3D representation, and It is composed by a series of orderless points with 3D coordinate values, we can use RGB and Depth camera to produce the point cloud, the image captured by RGB camera is used to provide color information, and The depth camera is used to provide depth information. 
