@@ -2,7 +2,7 @@
 
 This project solves the problem of mismatching between rgb camera and depth camera of Kinect camera. And we can get higher quality point cloud model than Kinect itself. We solve the problem by firstly using both DLT and Zhangzhengyou‘s checkerboard to calibrate the camera, and then applying the calibrated parameters to project and reproject from the image captured by RGB and depth camera.
 
-This project serves as a tutorial for calibrating Kinect camera and tool for project and reproject between different Coordinate System。
+This project serves as a tutorial for calibrating Kinect camera and tool for project and reproject between different coordinate systems.
 
 
 # Some Basic Terminology 
