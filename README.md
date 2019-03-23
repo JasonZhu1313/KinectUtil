@@ -50,7 +50,6 @@ It can be wrote to the matrix format:
 
 * fnormal_x,fnormal_y are Normalized focal length of X and Y in the direction of X and Y
 
-
 # Why we need to calibrate the RGB and Depth Camera
 ## Circumstances 1:
 Because the the rotation and translation of two cameras relative to each other are not perfect, so when generating the point cloud it will cause the color mismatch, which means the color image can be project to the wrong place and it will influence the quality of the point cloud. The mismatch of color is shown as below:
