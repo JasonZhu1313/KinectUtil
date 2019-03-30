@@ -4,7 +4,6 @@ This project solves the problem of mismatching between rgb camera and depth came
 
 This project serves as a tutorial for calibrating Kinect camera and tool for project and reproject between different coordinate systems.
 
-
 # Some Basic Terminology 
 ## Point cloud:
    Point cloud is a kind of 3D representation, and It is composed by a series of orderless points with 3D coordinate values, we can use RGB and Depth camera to produce the point cloud, the image captured by RGB camera is used to provide color information, and The depth camera is used to provide depth information. 
